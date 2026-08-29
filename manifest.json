@@ -1,0 +1,25 @@
+{
+  "name": "JUMP PERUGIA",
+  "short_name": "JUMP PERUGIA",
+  "id": "/jump-perugia/",
+  "start_url": "/jump-perugia/",
+  "scope": "/jump-perugia/",
+  "display": "standalone",
+  "background_color": "#090b19",
+  "theme_color": "#090b19",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "jump_perugia_icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "jump_perugia_icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
